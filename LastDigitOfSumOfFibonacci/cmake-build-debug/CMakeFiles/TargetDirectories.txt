@@ -1,0 +1,3 @@
+/Users/cristutiu/CLionProjects/LastDigitOfSumOfFibonacci/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cristutiu/CLionProjects/LastDigitOfSumOfFibonacci/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cristutiu/CLionProjects/LastDigitOfSumOfFibonacci/cmake-build-debug/CMakeFiles/LastDigitOfSumOfFibonacci.dir
