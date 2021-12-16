@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cristutiu/Manu/Projects/Algorithmic-Toolbox/Inversions/main.cpp
+algorithm
+-
+cstddef
+-
+iostream
+-
+vector
+-
+
